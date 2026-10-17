@@ -114,10 +114,10 @@ All StudyOS user data is persisted locally in the user's browser using **HTML5 L
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/study-os.git
+git clone https://github.com/helloworldjdjdbkdb/study-os-.git
 
 # 2. Navigate into the project folder
-cd study-os
+cd study-os-
 
 # 3. Install dependencies
 npm install
